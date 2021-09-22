@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/effect.png</file>
+        <file>img/english_flag.png</file>
+        <file>img/heart.png</file>
+        <file>img/valo.png</file>
+        <file>img/valohover.png</file>
+        <file>img/valohover2.png</file>
+        <file>img/play.png</file>
+    </qresource>
+</RCC>
